@@ -1,0 +1,7 @@
+from base.admin import BaseAdmin
+from .models import {{camel_case_app_name}}
+
+# Register your models here.
+@admin.register({{camel_case_app_name}})
+class {{ camel_case_app_name }}Admin(BaseAdmin):
+    pass

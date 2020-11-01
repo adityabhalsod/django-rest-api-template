@@ -1,0 +1,8 @@
+from base.serializers import ModelSerializer
+from .models import {{camel_case_app_name}}
+
+class {{camel_case_app_name}}Serializers(ModelSerializer):
+
+    class Meta:
+        model = {{camel_case_app_name}}
+        read_only_fields = ("id","created_date_time","updated_date_time",)

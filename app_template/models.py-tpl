@@ -1,0 +1,8 @@
+from __future__ import unicode_literals
+
+from base.models import BaseModel
+from django.db import models
+
+class {{camel_case_app_name}}(BaseModel):
+    pass
+    

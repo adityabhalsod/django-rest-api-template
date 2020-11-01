@@ -1,0 +1,11 @@
+from account.permission import BaseModelPermissions
+from base.views import ModelViewSet
+from .serializers import (
+    {{ camel_case_app_name }}Serializers
+)
+from .models import {{ camel_case_app_name }}
+
+class {{ camel_case_app_name }}ViewSet(ModelViewSet):
+    serializer_class = {{ camel_case_app_name }}Serializers
+    permission_classes = (BaseModelPermissions,)
+    queryset = {{ camel_case_app_name }}.objects.all()

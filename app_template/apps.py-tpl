@@ -1,0 +1,4 @@
+from base.apps import BaseConfig
+
+class {{ camel_case_app_name }}Config(BaseConfig):
+    name = "{{ app_name }}"
