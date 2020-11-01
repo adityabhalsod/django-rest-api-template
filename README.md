@@ -8,7 +8,6 @@ django-admin.py startproject --template='~/project_template' --extension py,yaml
 
 ## After installation, you need to change the following:
 * Change this README.
-* Delete/change the `LICENSE` file.
 * Customize the `.env` file.
 * Add your domain in `settings.py`'s `ALLOWED_HOSTS`.
 
