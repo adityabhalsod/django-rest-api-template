@@ -62,3 +62,7 @@ your extra branch(es).
 5. Multiple environment support. (Settings)
 6. Django celery support.
 7. All auth support. (ex: Google, facebook.. etc)
+
+## License
+
+Copyright © Aditya Bhalsod. Licensed under the [Apache License](/LICENSE).
