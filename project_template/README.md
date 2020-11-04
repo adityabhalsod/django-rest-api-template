@@ -1,4 +1,4 @@
-# Github : [AdityaBhalsod/django-project-template](https://github.com/AdityaBhalsod/django-project-template)
+# Github : [AdityaBhalsod/django-rest-api-template](https://github.com/AdityaBhalsod/django-rest-api-template)
 
 ## Quick start for beginning
 
