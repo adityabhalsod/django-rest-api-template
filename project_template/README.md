@@ -1,5 +1,3 @@
-# Github : [AdityaBhalsod/django-rest-api-template](https://github.com/AdityaBhalsod/django-rest-api-template)
-
 ## Quick start for beginning
 
 ---

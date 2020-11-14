@@ -13,12 +13,6 @@ schema_view = get_schema_view(
         default_version=os.getenv("PROJECT_VERSION", "V1"),
         description=os.getenv("PROJECT_DESCRIPTION", "No description."),
         terms_of_service="https://policies.google.com/terms",
-        contact=openapi.Contact(
-            name="Aditya Bhalsod",
-            email="adityabhalsod99@gmail.com",
-            url="https://github.com/AdityaBhalsod/",
-        ),
-        license=openapi.License(name="Licensed to AdityaBhalsod (Backend Developer)"),
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),

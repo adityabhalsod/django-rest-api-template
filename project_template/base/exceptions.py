@@ -5,12 +5,6 @@ from rest_framework.views import exception_handler as base_handler
 
 def exception_handler(exception, context):
     """
-    ############################################
-    Author : Name  : Aditya Bhalsod
-             Email : adityabhalsod99@gmail.com
-             Github: https://github.com/AdityaBhalsod/      
-    ############################################
-
     Django rest framework for custom exception handler
 
     @exception  :  Exception
