@@ -47,7 +47,7 @@ your extra branch(es).
 ```json
 {
   "AdityaBhalsod":{
-    "repositorie": "https://github.com/AdityaBhalsod/django-rest-api-template",
+    "repositorie": "https://github.com/adityabhalsod/django-rest-api-template",
     "email":"adityabhalsod99@gmail.com"
   }
 }
