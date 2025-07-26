@@ -54,7 +54,7 @@ your extra branch(es).
 ```
 
 ## #TODO:
-1. Unit-testcase. (if possible)
+1. Unit-testcase.
 1. Docker support.
 2. Multiple storage support. (GCP/AWS/AZURE)
 3. Heroku support.
