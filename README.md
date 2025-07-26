@@ -54,14 +54,11 @@ your extra branch(es).
 ```
 
 ## #TODO:
-1. Unit-testcase.
-1. Docker support.
-2. Multiple storage support. (GCP/AWS/AZURE)
-3. Heroku support.
-4. Digital ocean support.
-5. Multiple environment support. (Settings)
-6. Django celery support.
-7. All auth support. (ex: Google, facebook.. etc)
+1. Multiple environment support. (Settings)
+2. Docker support.
+3. Multiple storage support. (GCP/AWS/AZURE)
+4. Django celery support.
+5. All auth support. (ex: Google, facebook.. etc)
 
 ## License
 
